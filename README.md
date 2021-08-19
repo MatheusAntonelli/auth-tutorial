@@ -9,4 +9,4 @@ Simple authentication App using auth0 on React
 ![image](https://user-images.githubusercontent.com/63072945/130144255-87e9d030-8e8c-42f9-9fc1-9cf1e27e437c.png)
 
 
-I don't put any CSS on this repository because the intention is just show how simple is create an app with a simple authentication Service.
+I don't put any CSS on this repository because the intention is just show how easy is create an app with a simple authentication Service.
